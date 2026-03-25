@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sohyun Park (pasohyun)
+# 👋 Hello, I'm Sohyun Park
 > **Statistics & Software Convergence** student at Sookmyung Women's University.
 > I bridge the gap between **Mathematical Insight** and **Software Implementation.**
 

@@ -7,19 +7,21 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-Python
-SQL
+- Python
+- SQL
 
 ### 📊 Data & ML
-Pandas, NumPy
-Scikit-learn, LightGBM, XGBoost
-TensorFlow, PyTorch 
-NLTK, VADER
-Streamlit / Gradio 
+- Pandas, NumPy
+- Scikit-learn, LightGBM, XGBoost
+- TensorFlow, PyTorch 
+- NLTK, VADER
+- Streamlit / Gradio
+
 --- 
 ## 🔥Activities
-BITAmin (AI Club) — 16th Member | (Jul 2025 – present)
+- BITAmin (AI Club) — 16th Member | (Jul 2025 – present)
+
 ---
 ## 📫 Contact
-Email: pasohyun@sookmyung.ac.kr
-GitHub: https://github.com/pasohyun
+- Email: pasohyun@sookmyung.ac.kr
+- GitHub: https://github.com/pasohyun

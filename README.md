@@ -19,7 +19,7 @@
 
 ## 🔥 Activities
 - **[Scholarship]** 대웅제약 AI 빅데이터 글로벌 장학생 (Daewoong Pharmaceutical AI Big Data Global Scholarship)
-- **[BITAmin]** 데이터 분석 연합 동아리 비타민 16기 | SQL 스터디 리더 (2025.07 - Present)
+- **[BITAmin]** 데이터 분석 연합 동아리 비타민 16기 (2025.07 - Present)
 - **[DACOS]** 숙명여자대학교 소프트웨어학부 데이터 분석 학회 다코스 3기 (2025.03 - Present)
 - **[Student Council]** 숙명여자대학교 통계학과 학생회 부회장 (2024.09 - 2024.12)
 
